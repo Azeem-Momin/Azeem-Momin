@@ -1,9 +1,4 @@
 
-
-
-
-
-
 <h1 align="center">Hi 👋, I'm Mohammad Azeem Momin</h1>
 <h3 align="center">Full Stack Developer | Lifelong Student | Tech Enthusiast</h3>
 
@@ -43,15 +38,20 @@
   &nbsp;&nbsp;&nbsp;
   <img src="https://miro.medium.com/v2/resize:fit:1200/0*GTTsEc-bsWoqcOoM.gif" alt="Mongo" width="72" height="72" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://media.lordicon.com/icons/wired/gradient/1321-html-5-code-language.gif" alt="HTML" width="72" height="52" />
+<!--   <img src="https://media.lordicon.com/icons/wired/gradient/1321-html-5-code-language.gif" alt="HTML" width="72" height="52" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://media.tenor.com/80QPiB4JMLMAAAAM/logo.gif" alt="CSS" width="72" height="52" />
+  &nbsp;&nbsp;&nbsp; -->
+   <img src="https://blogs.purecode.ai/blogs/wp-content/uploads/2023/12/giphy-6.gif" alt="bootstrap" width="65" height="65" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://miro.medium.com/v2/resize:fit:960/1*sOWIyC1rjrWSUdIS1KvyHw.gif" alt="JavaScript Animated" width="72" height="52" />
+  <br/><br/>
+<!--   <img src="https://miro.medium.com/v2/resize:fit:960/1*sOWIyC1rjrWSUdIS1KvyHw.gif" alt="JavaScript Animated" width="72" height="52"/>
   &nbsp;&nbsp;&nbsp;
   <img src="https://media.licdn.com/dms/image/D4E12AQEBg943ptCYpg/article-cover_image-shrink_720_1280/0/1686391647921?e=2147483647&v=beta&t=sTfwUvcIfW7Fuby7hMluDfuRJK3HfYMMWc2SyZR7-GA" alt="express" width="72" height="52" />
-   &nbsp;&nbsp;&nbsp;
-  <img src="https://assets.getpostman.com/common-share/postman-galaxy-social-preview.gif" alt="express" width="72" height="52" />
+   &nbsp;&nbsp;&nbsp; -->
+
+
+ [![My Skills](https://skillicons.dev/icons?i=html,css,express,git,github,postman)](https://skillicons.dev)
 
   
 </div>
