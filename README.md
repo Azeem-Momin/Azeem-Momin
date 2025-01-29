@@ -67,20 +67,20 @@
 <a href="https://www.leetcode.com/mam_coder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mam_coder" height="30" width="40" /></a>
   &nbsp;
 </p>
-<br/>
+<br/><br/>
 
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=azeem-momin&show_icons=true&locale=en&layout=compact" alt="azeem-momin" />
 </div>
 
-<br/><br/>
+<br/>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=azeem-momin&show_icons=true&locale=en" alt="azeem-momin" />
 </div>
 
-<br/><br/>
+<br/>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=azeem-momin&" alt="azeem-momin" />
