@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **azeemmomin369@gmail.com**
 
- ✨ Motto I Live By  
+- ✨ Motto I Live By  
     
   *"Jo log kuch nahi krte kamaal karte hai."  
   (The idle ones often do wonders)*  
