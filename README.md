@@ -12,14 +12,12 @@
 
 - 📫 How to reach me **azeemmomin369@gmail.com**
 
+ ✨ Motto I Live By  
+    
+  *"Jo log kuch nahi krte kamaal karte hai."  
+  (The idle ones often do wonders)*  
 
-## ✨ Motto I Live By  
-
-> **"جو لوگ کچھ نہیں کرتے کمال کرتے ہیں"*  
-> **"Jo log kuch nahi krte kamaal karte hai."**  
-> — *Dagh Dehlvi*  
-
-🌟 *The idle ones often do wonders!* 🌟
+  — Dagh Dehlvi  
 
 
 
